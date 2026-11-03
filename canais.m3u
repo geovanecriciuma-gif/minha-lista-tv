@@ -69,17 +69,17 @@ http://45.185.11.126:8000/play/a0am/index.m3u8
 # Documentário
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="Documentário",Animal Planet HD
 http://45.185.11.126:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-name="Disc. Home & Health HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-home-and-health-br.png" group-title="Documentário",Disc. Home & Health HD
+#EXTINF:-1 tvg-name="Disc. Home & Health HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" group-title="Documentário",Disc. Home & Health HD
 http://45.185.11.126:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentário",Discovery Channel HD
 http://45.185.11.126:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Documentário",Discovery Science HD
 http://45.185.11.126:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-theater-br.png" group-title="Documentário",Discovery Theater HD
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentário",Discovery Theater HD
 http://45.185.11.126:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Turbo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-turbo-br.png" group-title="Documentário",Discovery Turbo HD
 http://45.185.11.126:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-world-br.png" group-title="Documentário",Discovery World HD
+#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentário",Discovery World HD
 http://45.185.11.126:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="Documentário",HGTV HD
 http://45.185.11.126:8000/play/a074/index.m3u8
