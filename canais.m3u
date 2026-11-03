@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Globo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/TV_Globo_logo_2025.svg/960px-TV_Globo_logo_2025.svg.png" group-title="Ao vivo",Globo
+http://200.77.176.130:8000/udp/224.0.0.1:49152
+
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E Latin America Brazil (720p)
 http://170.83.16.50/AeE/index.m3u8
 
