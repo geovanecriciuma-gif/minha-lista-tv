@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-id="ElyTV.br@SD" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="TV ABERTA",SBT (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" group-title="TV ABERTA",SBT
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="https://i.imgur.com/VcHy0fu.png" group-title="TV ABERTA",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 
@@ -23,6 +26,12 @@ http://45.162.64.114/TV_CULTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="TV ABERTA",TV Cancao Nova (720p)
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
+
+#EXTINF:-1 tvg-id="ODiaTV.br@SD" tvg-logo="https://i.imgur.com/1LUbAVP.png" group-title="TV ABERTA",Rede Tv!
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV ABERTA",Rede TV! SD (720p)
+http://45.162.64.114/REDE_TV/index.m3u8
 
 #===== GERAL =====
 
@@ -59,9 +68,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="GERAL",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ODiaTV.br@SD" tvg-logo="https://i.imgur.com/1LUbAVP.png" group-title="GERAL",O Dia TV
-https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="GERAL",Play TV (Brazil) (720p)
 http://45.162.64.114/PLAY_TV/index.m3u8
 
@@ -83,11 +89,8 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="GERAL",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="GERAL",Rede TV! SD (720p)
-http://45.162.64.114/REDE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" group-title="GERAL",SBT Nova Mutum
-https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="SICTV.br@SD" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="GERAL",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
